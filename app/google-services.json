@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916566161039",
+    "project_id": "jareader3",
+    "storage_bucket": "jareader3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916566161039:android:9cda2be409d27020d4e2fa",
+        "android_client_info": {
+          "package_name": "com.example.jareader3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916566161039-9g03efc2su8p9vp14optnbhvh842kfe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBdklcV2dlU4uwcRFUHIi12JxDofJ-Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916566161039-9g03efc2su8p9vp14optnbhvh842kfe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jareader3</string>
+    <string name="create_acct">Please enter a valid email and password. Password must be
+    more than 6 characters</string>
+</resources>
